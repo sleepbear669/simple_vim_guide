@@ -5,7 +5,16 @@
 * [레지스터와 매크로 사용법](register.md)
 * [INSERT 모드 단축키 모음](insert_keys.md)
 * [Mark 사용법](mark.md)
+* [map과 abbreviate](map.md)
 * [여러 파일을 편집하기](multiple_files.md)
+* [.vimrc 설정 방법](vimrc.md)
+    * 플러그인 설치 방법
+
+* IDE 처럼 사용하기
+    * [VIM buffer를 IDE 탭처럼 사용하기](buffertip.md)
+    * [ctags 로 함수가 선언된 곳으로 점프하기](ctags.md)
+
+* [한국어 키보드로 VIM 사용하기](with_korean.md)
 
 ------
 
